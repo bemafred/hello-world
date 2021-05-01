@@ -1,2 +1,2 @@
 #!/bin/bash
-g++ -o hello hello.cpp
+g++ -o ./build/hello hello.cpp
