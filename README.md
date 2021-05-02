@@ -1,13 +1,13 @@
 # hello-world
 A collection of tiny hello-world examples.
 
-## gas
+## GAS
 
-## nasm
+## NASM
 
-## c
+## C
 
-## c++
+## C++
 
 ## C#
 
