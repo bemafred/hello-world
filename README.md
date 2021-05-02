@@ -1,12 +1,16 @@
 # hello-world
-A collection of hello-world examples.
-
-## c
-
-## c++
+A collection of tiny hello-world examples.
 
 ## gas
 
 ## nasm
 
+## c
 
+## c++
+
+## C#
+
+## JS
+
+## TS
