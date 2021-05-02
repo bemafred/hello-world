@@ -1,3 +1,3 @@
 #!/bin/bash
-as -o ./build/hello.o hello.s
-ld -o ./build/hello ./build/hello.o
+as -o ./obj/hello.o hello.s
+ld -o ./bin/hello ./obj/hello.o

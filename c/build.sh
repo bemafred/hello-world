@@ -1,2 +1,3 @@
 #!/bin/bash
-gcc -o ./build/hello hello.c
+gcc -c hello.c -o ./obj/hello.o
+gcc ./obj/hello.o -o ./bin/hello
