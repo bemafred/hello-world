@@ -8,6 +8,7 @@ for file in */clean.sh; do
     echo "./${parts[1]}"; 
     echo "cd ..";  
 done >> generated-clean-all.sh
+chmod +x ./generated-clean-all.sh
 ./generated-clean-all.sh
 rm generated-clean-all.sh
 

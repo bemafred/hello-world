@@ -8,6 +8,7 @@ for file in */build.sh; do
     echo "./${parts[1]}"; 
     echo "cd ..";  
 done >> generated-build-all.sh
+chmod +x ./generated-build-all.sh
 ./generated-build-all.sh
 rm generated-build-all.sh
 
