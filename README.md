@@ -1,5 +1,5 @@
 # hello-world
-A collection of tiny hello-world examples.
+A collection of tiny hello-world examples in different languages.
 
 ## GAS
 
