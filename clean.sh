@@ -7,7 +7,7 @@ for file in */clean.sh; do
     echo "cd ${parts[0]}"; 
     echo "./${parts[1]}"; 
     echo "cd ..";  
-done >> generated-build-all.sh
+done >> generated-clean-all.sh
 ./generated-clean-all.sh
 rm generated-clean-all.sh
 
